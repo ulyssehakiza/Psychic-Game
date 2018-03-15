@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 150%;
+  margin: 0 auto -4em;
+}
+
+#game{
+	text-align:left;
+}
+#container{
+	width: 100%;
+	max-width: 100px;
+	margin: 0 auto;
+	clear: both;	
+}* {
+  margin: 0;
+}
+
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 150%;
+  margin: 0 auto -4em;
+}
+
+#game{
+	text-align:left;
+}
+#container{
+	width: 100%;
+	max-width: 100px;
+	margin: 0 auto;
+	clear: both;	
+}
+
